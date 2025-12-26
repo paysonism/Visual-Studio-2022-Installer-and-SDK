@@ -1,7 +1,11 @@
-install the sdk and wdk first
+# Visual Studio 2022 Installer and SDK
 
-when installing vs2022, make sure to install the "Desktop Development with C++" package
+This is a archive repo for the following products:
 
-then once it is installed, in the installer, go to modify > individual components > and then search for "2022 spectre x64" > install the first option it gives you on the list > then search for "Windows Driver" and install the package that comes up
+- Visual Studio 2022 - Windows Installer
+- Windows SDK - 10.0.26100
+- Windows WDK - 10.0.26100
 
-ur all setup. You will be able to work on all cheats and drivers you come across.
+# Credits
+
+Archived by Payson
