@@ -36,6 +36,8 @@ Align Assignments 2022``
 
 Use the Extension Manager plugin to import (Extensions->Import and Export Extensions->Import Extensions...)
 
+[Monolisa Leaked $100 Font](https://github.com/paysonism/MonoLisa-Leaked-Font/) - My favorite font. POreview images in the dedicated repo.
+
 # Credits
 
 Archived by Payson 😘
